@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/routing/static/css/main.c3d5249d.css",
+    "main.js": "/routing/static/js/main.17c0d1ff.js",
+    "index.html": "/routing/index.html",
+    "main.c3d5249d.css.map": "/routing/static/css/main.c3d5249d.css.map",
+    "main.17c0d1ff.js.map": "/routing/static/js/main.17c0d1ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.17c0d1ff.js"
+  ]
+}
